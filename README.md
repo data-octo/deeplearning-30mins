@@ -1,5 +1,10 @@
 # Neural Network in 30 Minutes
-This tutorial is for people who have programming experience but not much mathematics knowledge. It aims to help people understand Neural Network in 30 minutes so that they will be able to further do research or discuss with algorithm professionals. 
+This tutorial is for people:
+* Who have programming experience but not much mathematics knowledge. 
+* Who hear Neural Network a lot but don't understand the terminologies in the back.
+* Who would like to try build a Neural Network algorithm for more understanding.
+
+It aims to help people understand Neural Network in 30 minutes so that they will be able to further do research or discuss with algorithm professionals. 
 
 This tutorial will be seperated into 10 sessions, 3 minutes reading each. It covers following 3 topics:
 * What is Neural Network
