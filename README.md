@@ -1,5 +1,5 @@
-# Deep Learning(Neural Network) in 30 Minutes
-This tutorial is to help people understand Deep Learning(Neural Network) in 30 minutes so that they will be able to further research or discuss with algorithm professionals. 
+# Neural Network in 30 Minutes
+This tutorial is for people who have programming experience but not much mathematics knowledge. It aims to help people understand Neural Network in 30 minutes so that they will be able to further do research or discuss with algorithm professionals. 
 
 This tutorial will be seperated into 10 sessions, 3 minutes reading each. It covers following 3 topics:
 * What is Neural Network
