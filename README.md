@@ -24,4 +24,4 @@ The tutorial includes both explanation of concepts and code for praticing. We be
 
 The code is written in Python Jupyter Notebook. You can set up environment in your own computer to try the code, or you can access [Trinket](https://trinket.io/library/trinkets/create?lang=python3) to practice.
 
-We believe AI is the future and Neural Network can help us get started with this technology to make the world better. We welcome everyone to share feedbacks and contribute together! 
+We believe AI is the future and Neural Network can help us get started with this technology to make the world better. We welcome everyone to share feedbacks and contribute together! When participating, you not only understand more about Neural Network, but also learn about Git, Markdown, and Python.
