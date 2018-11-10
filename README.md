@@ -2,7 +2,7 @@
 This tutorial is for people:
 * Who have programming experience but not much mathematics knowledge. 
 * Who hear Neural Network a lot but don't understand the terminologies in the back.
-* Who would like to try build a Neural Network algorithm for more understanding.
+* Who understand basics of Python coding and environment setup.
 
 It aims to help people understand Neural Network in 30 minutes so that they will be able to further do research or discuss with algorithm professionals. 
 
@@ -13,14 +13,14 @@ This tutorial will be seperated into 10 sessions, 3 minutes reading each. It cov
 
 The tutorial includes both explanation of concepts and code for praticing. We believe people can understand better by praticing during learning. 
 * Python Basics
-* Pandas Data Frame
 * Numpy Matrix
 * TensorFlow Playground
 * Forfeed Neural Network 
 * Backprop Neural Network
 * Classification and Regression
 * Activation Functions
-* Regularization Functions
+* Regularization and Overfitting
+* Hyperparameter
 * Deep Learning Preprocessing
 
 The code is written in Python Jupyter Notebook. You can set up environment in your own computer to try the code, or you can access [Trinket](https://trinket.io/library/trinkets/create?lang=python3) to practice.
