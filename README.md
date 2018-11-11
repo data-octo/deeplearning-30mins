@@ -15,8 +15,8 @@ The tutorial includes both explanation of concepts and code for praticing. We be
 * Python Basics
 * Numpy Matrix
 * TensorFlow Playground
-* Forfeed Neural Network 
-* Backprop Neural Network
+* Neural Network with Single Neuron
+* Neural Network with Multiple Hidden Layers
 * Classification and Regression
 * Activation Functions
 * Regularization and Overfitting
