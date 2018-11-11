@@ -18,7 +18,7 @@ The tutorial includes both explanation of concepts and code for praticing. We be
 * Neural Network with Single Neuron
 * Neural Network with Multiple Hidden Layers
 * Classification and Regression
-* Activation Functions
+* Cost Functions and Gradient Descent
 * Regularization and Overfitting
 * Hyperparameter
 * Deep Learning Preprocessing
