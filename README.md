@@ -12,16 +12,15 @@ This tutorial will be seperated into 10 sessions, 3 minutes reading each. It cov
 * How to create a Neural Network 
 
 The tutorial includes both explanation of concepts and code for praticing. We believe people can understand better by praticing during learning. 
-* Python Basics
-* Numpy Matrix
-* TensorFlow Playground
-* Neural Network with Single Neuron
-* Neural Network with Multiple Hidden Layers
-* Classification and Regression
-* Cost Functions and Gradient Descent
-* Regularization and Overfitting
-* Hyperparameter
-* Deep Learning Preprocessing
+* Understand coding basics: Python and Numpy
+* Where can I try Neural Network: TensorFlow Playground
+* What is Neural Network: Introduction
+* How does it work: Activation Function
+* Real business problem: Classification and Regression
+* Train the Neural Network: Backpropogation
+* Improve Accuracy: Regularization and Overfitting
+* Improve Performance by tuning Model: Hyperparameter
+* Improve Performance by adjusting input data: Preprocessing
 
 The code is written in Python Jupyter Notebook. You can set up environment in your own computer to try the code, or you can access [Trinket](https://trinket.io/library/trinkets/create?lang=python3) to practice.
 
