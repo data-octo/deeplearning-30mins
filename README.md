@@ -1,4 +1,4 @@
-# Neural Network in 30 Minutes
+# Neural Network Get Started in 30 Minutes
 This tutorial is for people:
 * Who have programming experience but not much mathematics knowledge. 
 * Who hear Neural Network a lot but don't understand the terminologies in the back.
