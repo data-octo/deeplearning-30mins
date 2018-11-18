@@ -18,6 +18,7 @@ The tutorial includes both explanation of concepts and code for praticing. We be
 * How does it solve a Non-linear problem: Activation Function
 * Real business problem: Classification and Regression
 * Train the Neural Network: Backpropogation
+* Different types of Neural Network: CNN, RNN, LSTM
 * Improve Accuracy: Regularization and Overfitting
 * Improve Performance by tuning Model: Hyperparameter
 * Improve Performance by adjusting input data: Preprocessing
